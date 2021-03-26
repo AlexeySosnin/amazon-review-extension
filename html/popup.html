@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>HustleHunt Extension</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,41DO8IyHTdL.css,31qGOnSAToL.css,013z33uKh2L.css,017DsKjNQJL.css,0131vqwP5UL.css,41EWOOlBJ9L.css,11gKzVUTNZL.css,01ElnPiDxWL.css,11bGSgD5pDL.css,01Dm5eKVxwL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21N4kUH7pxL.css,01oDR3IULNL.css,31q1y1irc5L.css,21j0IlW7xKL.css,01XPHJk60-L.css,014OeDQisGL.css,21aPhFy+riL.css,11gneA3MtJL.css,21fecG8pUzL.css,01RddH8vm-L.css,01CFUgsA-YL.css,31C80IiXalL.css,11qour3ND0L.css,11tRp6+0HHL.css,11MrdqKlKnL.css,11oHt2HYxnL.css,013RDhw9hoL.css,11JQtnL-6eL.css,11RKoGSb-gL.css,11jtXRmppwL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11QyqG8yiqL.css,11kwKGWmBfL.css,11F2+OBzLyL.css,11Y05DTEL6L.css,01cbS3UK11L.css,21F85am0yFL.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&pKFdlBID#us.page_type-Search.not-trident.305299-T1.263677-T2.265810-T2">
+        <link rel="stylesheet" href="../plugins/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/style.css">
+
+        <script src="../plugins/js/jquery.min.js"></script>
+        <script src="../js/popup.js"></script>
+    </head>
+    <body>
+        <div id="loading" class="overlay justify-content-center align-items-center">
+            <span>Please wait...</span>
+        </div>
+        <div class="container py-3">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <img class="logo" src="../img/logo.jpeg">
+                    <a href="#" id="close" class="float-right">&times;</a>
+                    <hr>
+                </div>
+                <div class="col-12 text-center found" style="display: none;">
+                    <span class="text-danger"><span id="number">2</span> products</span> found on this page.
+                </div>
+                <div class="col-12 text-danger text-center not-found" style="display: none;">
+                    There is no product which has 3.0 ~ 4.2 reviews.
+                </div>
+                <div class="col-12 mt-3">
+                    <table class="table table-striped table-bordered table-hover w-100">
+                        <thead>
+                            <tr>
+                                <th>Product Name</th>
+                                <th>Price</th>
+                                <th>Reviews</th>
+                                <th>Rating</th>
+                                <th>Negative Keywords</th>
+                            </tr>
+                        </thead>
+                        <tbody id="products" class="found">
+                            <tr>
+                                <td colspan="5"></td>
+                            </tr>
+                        </tbody>
+                        <tbody class="not-found" style="display: none;">
+                            <tr>
+                                <td colspan="5">Not found product</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
