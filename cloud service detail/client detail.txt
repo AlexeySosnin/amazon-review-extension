@@ -1,5 +1,7 @@
+-skype address
+live:.cid.1f485c3cdb3426a3
+---------------------------------------------------------
 -aws account
-
 user: hustlehunt2016@gmail.com
 pass: Rbeaup91!
 ----------------------------------------------------------
@@ -7,7 +9,6 @@ pass: Rbeaup91!
 user:   ec2-user
 host:   ec2-52-15-96-139.us-east-2.compute.amazonaws.com
 ----------------------------------------------------------
-renaudbeaupre1991@gmail.com
 -(use)https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html
 -(don't use)https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-connect-methods.html
 -(use)https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
