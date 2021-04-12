@@ -1,0 +1,115 @@
+Is it possible?
+
+Tam, 3:38 AM
+could you help me reproduce the error?
+
+I accessed
+
+hello?
+
+
+3:41 AM
+
+Amazon.com
+https://www.amazon.com
+did you check on this page?
+
+Tam, 3:42 AM
+I didn't
+
+
+3:43 AM
+
+https://i.imgur.com
+Please check there.
+It is really fatal error.
+
+Tam, 3:44 AM
+
+web_api.pem
+
+the pem file
+
+because it's only show `green`?
+
+3:44 AM
+yes
+What do you thinkn?
+
+Tam, 3:47 AM
+I'm checking
+
+  Dislike the pants, needs to be washed ASAP reason the dye comes out fades really fast, my hands had started turning green
+
+this is the review
+
+3:52 AM
+Just one review?
+
+Tam, 3:52 AM
+just received it
+
+3:54 AM
+I wonder if why there is only one keyword from the many reviews...
+
+Tam, 3:57 AM
+as I said
+
+it splits sentence to words then assess it's polarity
+
+@Ng?c pls check if you sent the reviews correctly
+
+I will try to improve the nlp algorigthm
+
+@ALex You can take a look at the nlp engine in `app/api/backend.py`
+
+I use textblob lib btw
+
+4:06 AM
+I can't find the app/api/backend.py. Can you send me the source here?
+
+Tam, 4:08 AM
+Did you save the project github source code link?
+
+4:09 AM
+yes, but there is no app folder
+
+Tam, 4:10 AM
+The file named backend.py somewhere
+
+Sorry. I'm using phone
+
+4:12 AM
+sure
+I found
+8:03 AM
+Hello
+How is going our project?
+
+Ng?c, 8:36 AM
+@Tam 
+
+
+Just one review?
+ALex, Yesterday at 3:52 AM
+Because it only has 1 review 3 star rate and no reviews in 1 or 2 star rate
+
+
+Ng?c, 9:29 AM
+
+But we definitely still want to analyze the sentiment. But I'm just thinking if it's a better product if we use the sentiment analysis to decide which is a negative review and then just take the most popular keywords from those negative reviews
+ALex, Thursday at 4:54 PM
+@ALex Do you mean we will send all the reviews instead of 1,2,3 star reviews to analyze then extract the popular keywords?
+
+12:30 PM
+okay, let me think
+
+12:59 AM
+Hi, now I am going to Yekaterinbrug
+Can you also include some quick instructions on accessing the nltk python? Is it just on the ec2 instance home?
+
+1:28 AM
+I will be back on next monday. I have so many tasks. So my boss wants to get back soon.... (shivering)
+I will contact you with other skype address and my name. Then accept me and let's continue to work. 
+I hope you are going well.
+Beauty Linh and handsome Tam. Best regard.

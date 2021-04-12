@@ -1,0 +1,189 @@
+6:43 PM
+1) We need to also add keywords on the product's detail page. Like this page: https://www.amazon.com/LannaPremium-Fisherman-Pants-Trousers-Cotton/dp/B00LE4ZJWA
+
+- So do you have a design for it? Let address where you want to see
+
+Amazon.com
+https://www.amazon.com
+2) When I close the plugin and reopen it again on the same page, it stops working (see picture). 
+=> When you close and reopen, the plugin can't continue work because the popup only is active when it's open and it reset the state of loading products.
+ So I am thinking about the solution.
+
+Renaud, 9:33 PM
+
+https://www.amazon.com/LannaPremium-Fisherman-Pants-Trousers-Cotton/dp/B00LE4ZJWA
+ALex, Thursday at 6:43 PM
+Sure, I can send a rough mockup
+
+
+Renaud, 10:43 PM
+
+
+And then if you click on the plugin while in this page, it will only show you information on the one product
+
+2:43 AM
+Okay
+
+4:15 PM
+
+HustleHunt 2.zip
+Check this last version
+
+Renaud, 5:01 PM
+Perfect, I'll check it out asap
+
+
+Renaud, 6:01 PM
+
+
+The latest version looks good! One last little detail: can we add a title at the top of the keywords here? Just "Negative Keywords" would be fine
+
+
+Renaud, 6:09 PM
+Also, how can I access the web_api directly if I wanted to make changes to the nltk python or blacklist? I think you guys set up two new instances on AWS so how can I log in?
+
+7:29 PM
+You're using Windows?
+7:40 PM
+I will make you guide as the video record.
+
+Renaud, 9:45 PM
+Nah, I'm using Mac
+
+Mac OSX
+
+
+3:40 AM
+
+HustleHunt.zip
+It is the new version
+
+4:03 AM
+
+It is guide
+5:10 PM
+Hello, how are you today?
+5:15 PM
+Did you checked the new version?
+
+Renaud, 6:39 PM
+Hey Alexey, I'm good. How are you?
+
+I'm checking out the new version this morning
+
+
+Renaud, 6:53 PM
+It looks good but the nltk python still seems a little off sometimes. Like the only keyword that appears here is "green"... Why? 
+
+https://www.amazon.com/Love-Quality-Fisherman-Pants-Martial/dp/B07JJNKJZ2
+
+
+Amazon.com
+https://www.amazon.com
+Also, can you send over the "web_api.pem" file? And can you add instructions on how to access the nltk python engine?
+
+
+3:45 AM
+
+web_api.pem
+It is the perm file.
+
+Renaud, 5:43 PM
+Thanks
+
+Can you also include some quick instructions on accessing the nltk python? Is it just on the ec2 instance home?
+
+12:59 AM
+Hello, bro
+I am going to Yekaterinbrug now
+I will be back soon.
+May be on next monday
+
+Renaud, 1:01 AM
+Sure, no worries man. Good luck with the wedding and everything. And we will talk when you get back
+
+1:02 AM
+(like)
+ Thanks.
+Will you give me a gift? :D
+
+Can you also include some quick instructions on accessing the nltk python? Is it just on the ec2 instance home?
+Renaud Beaupre, Yesterday at 5:44 PM
+I will do as soon as possible.
+And I probably contact you with other skype address and my name when I am back
+Now I am developing safari version
+We can complete it soon. (cool)
+
+Renaud, 1:08 AM
+
+:D
+ALex, Today at 1:02 AM
+I will send you a bottle of vodka as tall as you!
+
+
+I will do as soon as possible.
+ALex, Today at 1:03 AM
+Great, thank you
+
+
+(cool)
+ALex, Today at 1:07 AM
+Sounds good. Until then, safe travels and enjoy this time! Don't work
+
+There will always be time for work but this time you should spend with your new family
+
+1:10 AM
+Thank you very much. (xd)
+
+I will send you a bottle of vodka as tall as you!
+Renaud Beaupre, Today at 1:08 AM
+How can you send vodka? (stareyes)
+via paypal?;)
+
+Renaud, 1:15 AM
+I think it's the only way for now
+
+What's your paypal?
+
+1:16 AM
+(like)
+ cool
+dragondream0101@outlook.com
+
+Renaud, 1:20 AM
+Great, I just sent it. If this plugin is successful then there will be better gift in the future ;-)
+
+1:20 AM
+(like)
+Yes, thank you so much.
+
+Renaud, 1:21 AM
+
+Now I am developing safari version
+ALex, Today at 1:07 AM
+Also, don't develop the Safari version just yet. I want to get the nltk python working properly for the keywords first on Chrome
+
+We can talk more when you get back
+
+1:21 AM
+Okay, sure.
+
+;-)
+Renaud Beaupre, Today at 1:20 AM
+Can you send me the screenshot?
+
+Renaud, 1:24 AM
+
+
+1:24 AM
+Thanks.
+I will back soon
+I hope you going well those days.
+
+Renaud, 1:25 AM
+(y)
+I'll be just fine
+
+
+1:26 AM
+(like) By for now.

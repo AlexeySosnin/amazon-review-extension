@@ -1,0 +1,9 @@
+-clients
+(renaud) live:.cid.1f485c3cdb3426a3 
+-developers
+(linh-javascriptdev) live:bechaokute333
+(tam-pythondev) live:9ff4193e21695747 https://github.com/tamnguyenvan?tab=overview&from=2019-12-01&to=2019-12-31
+
+
+-git repository
+https://github.com/AlexeySosnin/amazon-review-extension
